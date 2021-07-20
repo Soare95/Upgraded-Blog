@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, reques
 import requests
 from datetime import datetime
 import smtplib
